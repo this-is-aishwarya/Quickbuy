@@ -4,6 +4,8 @@ With the advent of information technologies and emergence of online stores, onli
 
 ## Home Page
 
+This is the overview of the homepage. The homepage consists of hover cards depicting the details of the site. A flashy banner displaying different schemes and offer. And a preview of all the items on sale.
+
 ![Test Image1](home1.png)
 
 
@@ -11,5 +13,12 @@ With the advent of information technologies and emergence of online stores, onli
 
 
 ![Test Image1](home3.png)
+
+
+## Login Page
+
+![Test image](login.png)
+
+
 
  

@@ -20,5 +20,7 @@ This is the overview of the homepage. The homepage consists of hover cards depic
 ![Test image](login.png)
 
 
+## Cart Page
+![Test image](cart.png)
 
  

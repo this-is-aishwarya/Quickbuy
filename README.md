@@ -21,6 +21,8 @@ This is the overview of the homepage. The homepage consists of hover cards depic
 
 
 ## Cart Page
-![Test image](cart.png)
+
+This is the final checkout page where user can fill in his details and payment options.
+![Test image](cart)
 
  
